@@ -24,3 +24,8 @@ An online platform for people with lived experiences from disadvantaged backgrou
 ├── tests
 └── ui
 </pre>
+
+## Changelog
+#### Sprint 1
+- Added project background, problems, and tentative scope of solution (`docs/specification.pdf`)
+- Added documentation on requirements elicitation techniques (`docs/specification.pdf`)
