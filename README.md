@@ -13,10 +13,6 @@ An online platform for people with lived experiences from disadvantaged backgrou
 ├── README.md
 ├── data-samples
 ├── docs
-│   ├── meeting-minutes
-│   │   ├── client
-│   │   ├── supervisor
-│   │   └── team
 │   └── specification.pdf
 ├── prototypes
 │   ├── high-fidelity
