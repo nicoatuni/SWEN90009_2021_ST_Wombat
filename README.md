@@ -24,6 +24,13 @@ An online platform for people with lived experiences from disadvantaged backgrou
 </pre>
 
 ## Changelog
+
+#### Sprint 2
+- Updated project overview and solution scope to reflect our updated understanding (`docs/specification.pdf`)
+- Added motivational model (`docs/motivational-model.pdf`)
+- Added personas (`docs/personas.pdf`)
+
+
 #### Sprint 1
 - Added project background, problems, and tentative scope of solution (`docs/specification.pdf`)
 - Added documentation on requirements elicitation techniques (`docs/specification.pdf`)
