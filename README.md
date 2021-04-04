@@ -13,7 +13,9 @@ An online platform for people with lived experiences from disadvantaged backgrou
 ├── README.md
 ├── data-samples
 ├── docs
-│   └── specification.pdf
+│   ├── specification.pdf
+│   ├── motivational-model.pdf
+│   └── personas.pdf
 ├── prototypes
 │   ├── high-fidelity
 │   └── low-fidelity
