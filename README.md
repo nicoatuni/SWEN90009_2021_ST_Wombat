@@ -40,19 +40,26 @@ Moodboard and digital prototype (Figma) | https://www.figma.com/file/yHs699fUkoJ
 
 ## Changelog
 
-#### Sprint 3
+#### Sprint 4 (16 May 2021)
+- Updated existing documents to reflect our updated understanding
+- Added [acceptance criteria](./docs/acceptance-criteria.pdf) and [tests](./docs/acceptance-tests.pdf)
+- Added [moodboard](./docs/moodboard.pdf) and [high-fidelity prototype](./docs/digital-prototype.pdf) with [data samples](./data-samples/data-sample.pdf)
+- Added [traceability matrix](./docs/traceability-matrix.pdf)
+
+
+#### Sprint 3 (25 Apr 2021)
 - Updated project overview and solution scope to reflect our updated understanding (`docs/specification.pdf`, `docs/motivational-model.pdf`, `docs/personas.pdf`)
-- Add user stories and journey maps (`docs/user-stories.pdf`, `docs/user-story-map.pdf`, `docs/user-journey-map.pdf`)
-- Add paper prototype documents (`docs/prototype-usability-test.pdf`, `prototypes/low-fidelity/low-fi-wireframes.pdf`)
-- Add helper document for important links (`docs/links.txt`)
+- Added user stories and journey maps (`docs/user-stories.pdf`, `docs/user-story-map.pdf`, `docs/user-journey-map.pdf`)
+- Added paper prototype documents (`docs/prototype-usability-test.pdf`, `prototypes/low-fidelity/low-fi-wireframes.pdf`)
+- Added helper document for important links (`docs/links.txt`)
 
 
-#### Sprint 2
+#### Sprint 2 (4 Apr 2021)
 - Updated project overview and solution scope to reflect our updated understanding (`docs/specification.pdf`)
 - Added motivational model (`docs/motivational-model.pdf`)
 - Added personas (`docs/personas.pdf`)
 
 
-#### Sprint 1
+#### Sprint 1 (21 Mar 2021)
 - Added project background, problems, and tentative scope of solution (`docs/specification.pdf`)
 - Added documentation on requirements elicitation techniques (`docs/specification.pdf`)
