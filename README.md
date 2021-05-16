@@ -1,41 +1,45 @@
 # LEx Mirror
 
-An online platform for people with lived experiences from disadvantaged backgrounds to help with self-reflection on professional development.
+A self-reflection online platform for young people with lived experiences from disadvantaged backgrounds. More information can be found in the [project specification](./docs/specification.pdf).
 
 ## Team Members
 
 | <a href="https://github.com/yuanf3" /><img src="https://github.com/yuanf3.png" width="90px;" /><br /><sub>Fei Yuan</sub></a> | <a href="https://github.com/mhinh" /><img src="https://github.com/mhinh.png" width="90px;" /><br /><sub>My Tien Hinh</sub></a> | <a href="https://github.com/nictar" /><img src="https://github.com/nictar.png" width="90px;" /><br /><sub>Nico Dinata</sub></a> | <a href="https://github.com/limyish" /><img src="https://github.com/limyish.png" width="90px;" /><br /><sub>Yi Sheng Lim</sub></a> | <a href="https://github.com/dor1112" /><img src="https://github.com/dor1112.png" width="90px;" /><br /><sub>Rakhitha Dona Withanage</sub></a> |
 | :---: | :---: | :---: | :---: | :---: |
 
-## Repository Structure
-<pre>
-.
-├── README.md
-├── data-samples
-├── docs
-│   ├── links.txt
-│   ├── specification.pdf
-│   ├── motivational-model.pdf
-│   ├── personas.pdf
-│   ├── user-stories.pdf
-│   ├── user-story-map.pdf
-│   ├── user-journey-map.pdf
-│   └── prototype-usability-test.pdf
-├── prototypes
-│   ├── high-fidelity
-│   └── low-fidelity
-│       └── low-fi-wireframes.pdf
-├── tests
-└── ui
-</pre>
+## Repository Content
 
-## External Links
+- `docs/` (process documentation)
+    - [Project specification](./docs/specification.pdf)
+    - [Motivational model](./docs/motivational-model.pdf)
+    - [Personas](./docs/personas.pdf)
+    - [User stories](./docs/user-stories.pdf)
+    - [User story map](./docs/user-story-map.pdf)
+    - [User journey map](./docs/user-journey-map.pdf)
+    - [Usability testing](./docs/prototype-usability-test.pdf)
+    - [Acceptance criteria](./docs/acceptance-criteria.pdf)
+    - [Acceptance tests](./docs/acceptance-tests.pdf)
+    - [Moodboard](./docs/moodboard.pdf)
+    - [Digital prototype](./docs/digital-prototype.pdf)
+    - [Traceability matrix](./docs/traceability-matrix.pdf)
+- `prototypes/`
+    - `high-fidelity/`
+        - [Source file for digital prototype](./prototypes/high-fidelity/ST.fig) (`.fig`)
+    - `low-fidelity/`
+        - [Paper prototypes frames](./prototypes/low-fidelity/low-fi-wireframes.pdf)
+- `data-samples/`
+    - [Data sample used for high-fidelity prototype](./data-samples/data-sample.pdf)
+    - [Collaborative Learning rubric](./data-samples/collaborative-learning-analytic-rubrics.docx) (`.docx`)
+    - [Collaborative Learning progression](./data-samples/collaborative-learning-progression_NE.docx) (`.docx`)
 
-Type | Link
----- | ----
-User story map | https://miro.com/app/board/o9J_lIyNHzk=/
-User journey map | https://miro.com/app/board/o9J_lIcB_zQ=/
-Moodboard and digital prototype (Figma) | https://www.figma.com/file/yHs699fUkoJbtD5fEpxwNB/ST?node-id=323%3A2
+
+## External Resources
+
+| Resource | Link |
+| ---- | ---- |
+| User story map | https://miro.com/app/board/o9J_lIyNHzk=/ |
+| User journey map | https://miro.com/app/board/o9J_lIcB_zQ=/ |
+| Moodboard and digital prototype (Figma) | https://www.figma.com/file/yHs699fUkoJbtD5fEpxwNB/ST?node-id=323%3A2 |
 
 
 ## Changelog
