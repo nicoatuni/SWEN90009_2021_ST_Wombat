@@ -29,6 +29,15 @@ An online platform for people with lived experiences from disadvantaged backgrou
 └── ui
 </pre>
 
+## External Links
+
+Type | Link
+---- | ----
+User story map | https://miro.com/app/board/o9J_lIyNHzk=/
+User journey map | https://miro.com/app/board/o9J_lIcB_zQ=/
+Moodboard and digital prototype (Figma) | https://www.figma.com/file/yHs699fUkoJbtD5fEpxwNB/ST?node-id=323%3A2
+
+
 ## Changelog
 
 #### Sprint 3
