@@ -27,19 +27,19 @@ A self-reflection online platform for young people with lived experiences from d
 - `prototypes/`
     - `high-fidelity/`
         - High-fidelity prototype screens
-        - Source Figma file for digital prototype (`.fig`)
+        - Source Figma prototype file (`.fig`)
     - `low-fidelity/`
         - [Paper prototypes frames](./prototypes/low-fidelity/low-fi-wireframes.pdf)
     - `ui/`
         - Image files
-        - [Y-Change style guideline](./prototypes/ui/Y-Change_Identity_Guidelines_DRAFT.pdf)
+        - [Y-Change style guidelines](./prototypes/ui/Y-Change_Identity_Guidelines_DRAFT.pdf)
 - `data-samples/`
     - [Data sample used for high-fidelity prototype](./data-samples/data-sample.pdf)
     - [Collaborative Learning rubric](./data-samples/collaborative-learning-analytic-rubrics_cutpoints_LTI.docx) (`.docx`)
     - [Collaborative Learning progression](./data-samples/collaborative-learning-progression_NE.docx) (`.docx`)
 
 
-## External Resources
+## Resource Links
 
 | Resource | Link |
 | ---- | ---- |
@@ -57,7 +57,7 @@ A self-reflection online platform for young people with lived experiences from d
 - Updated rubric document used as data sample for prototype
 - Added high-fidelity screens and source Figma [file](./prototypes/high-fidelity/ST.fig)
 - Added final presentation [slides](./docs/final-presentation-slides.pdf)
-- Added some UI elements used in prototype and Y-Change's style [guidelines](./prototypes/ui/Y-Change_Identity_Guidelines_DRAFT.pdf)
+- Added Y-Change's style [guidelines](./prototypes/ui/Y-Change_Identity_Guidelines_DRAFT.pdf) and some UI elements used in prototype
 
 
 #### Sprint 4 (16 May 2021)
