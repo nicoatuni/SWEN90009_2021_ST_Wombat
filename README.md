@@ -17,19 +17,25 @@ A self-reflection online platform for young people with lived experiences from d
     - [User story map](./docs/user-story-map.pdf)
     - [User journey map](./docs/user-journey-map.pdf)
     - [Usability testing](./docs/prototype-usability-test.pdf)
-    - [Acceptance criteria](./docs/acceptance-criteria.pdf)
-    - [Acceptance tests](./docs/acceptance-tests.pdf)
     - [Moodboard](./docs/moodboard.pdf)
     - [Digital prototype](./docs/digital-prototype.pdf)
     - [Traceability matrix](./docs/traceability-matrix.pdf)
+    - [Final presentation slides](./docs/final-presentation-slides.pdf)
+- `tests/`
+    - [Acceptance criteria](./tests/acceptance-criteria.pdf)
+    - [Acceptance tests](./tests/acceptance-tests.pdf)
 - `prototypes/`
     - `high-fidelity/`
-        - [Source file for digital prototype](./prototypes/high-fidelity/ST.fig) (`.fig`)
+        - High-fidelity prototype screens
+        - Source Figma file for digital prototype (`.fig`)
     - `low-fidelity/`
         - [Paper prototypes frames](./prototypes/low-fidelity/low-fi-wireframes.pdf)
+    - `ui/`
+        - Image files
+        - [Y-Change style guideline](./prototypes/ui/Y-Change_Identity_Guidelines_DRAFT.pdf)
 - `data-samples/`
     - [Data sample used for high-fidelity prototype](./data-samples/data-sample.pdf)
-    - [Collaborative Learning rubric](./data-samples/collaborative-learning-analytic-rubrics.docx) (`.docx`)
+    - [Collaborative Learning rubric](./data-samples/collaborative-learning-analytic-rubrics_cutpoints_LTI.docx) (`.docx`)
     - [Collaborative Learning progression](./data-samples/collaborative-learning-progression_NE.docx) (`.docx`)
 
 
@@ -39,7 +45,7 @@ A self-reflection online platform for young people with lived experiences from d
 | ---- | ---- |
 | User story map | https://miro.com/app/board/o9J_lIyNHzk=/ |
 | User journey map | https://miro.com/app/board/o9J_lIcB_zQ=/ |
-| Moodboard and digital prototype (Figma) | https://www.figma.com/file/yHs699fUkoJbtD5fEpxwNB/ST?node-id=323%3A2 |
+| Moodboard and prototype (Figma) | https://www.figma.com/file/yHs699fUkoJbtD5fEpxwNB/ST?node-id=323%3A2 |
 
 
 ## Changelog
