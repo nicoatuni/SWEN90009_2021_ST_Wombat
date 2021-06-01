@@ -50,6 +50,16 @@ A self-reflection online platform for young people with lived experiences from d
 
 ## Changelog
 
+#### Sprint 5 (6 Jun 2021)
+- Fixed traceability matrix formatting issues
+- Refined project specification
+- Moved acceptance criteria and tests to `tests/`
+- Updated rubric document used as data sample for prototype
+- Added high-fidelity screens and source Figma [file](./prototypes/high-fidelity/ST.fig)
+- Added final presentation [slides](./docs/final-presentation-slides.pdf)
+- Added some UI elements used in prototype and Y-Change's style [guidelines](./prototypes/ui/Y-Change_Identity_Guidelines_DRAFT.pdf)
+
+
 #### Sprint 4 (16 May 2021)
 - Updated existing documents to reflect our updated understanding
 - Added [acceptance criteria](./docs/acceptance-criteria.pdf) and [tests](./docs/acceptance-tests.pdf)
